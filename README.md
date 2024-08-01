@@ -22,8 +22,8 @@ Para registrar um novo host no FOG, siga os passos abaixo:
    - No menu principal, vá para `Hosts` e clique em `List All Hosts`.
 
 3. **Adicione um Novo Host:**
-   - Para adicionar um novo Host que nao esteja cadastrado é necessário realizar o processo fisicamente na máquina em que se deseja cadastrar
-   - Inicialize a maquina pela rede (Servidor IPXE)
+   - Para adicionar um novo Host que nao esteja cadastrado é necessário realizar o processo fisicamente na máquina em que se deseja registrar.
+   - Inicialize a maquina pela rede (Servidor IPXE) digitando o IP do servidor FOG.
    - Clique em `Quick Registration and Inventory`.
    - Aguarde para que o processo de registro seja concluído.
    - Após a conclusão o Host estará adicionado, e poderá ser visualizado no menu de hosts do servidor Web.
