@@ -72,5 +72,5 @@ Imagens são cópias de sistemas operacionais que podem ser implantadas em hosts
 
 ---
 
-Para mais informações, consulte a [documentação oficial do FOG Project](https://fogproject.org/docs/).
+Para mais informações, consulte a [documentação oficial do FOG Project](https://docs.fogproject.org/).
 
