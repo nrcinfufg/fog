@@ -67,11 +67,15 @@ Imagens são cópias de sistemas operacionais que podem ser implantadas em hosts
 
 2. **Preencher os Detalhes da Imagem:**
    - Nomeie a imagem e selecione o tipo de sistema de arquivos.
+   - Recomenda-se utilizar as seguintes configurações
+   - Image Type: Multiple Partition Image - Single Disk (Not Resizable)
+   - Image Manager: Partcloze Zstd
    - Configure outras opções como desejado.
 
 3. **Capturar ou Deploy de Imagem:**
-   - Para capturar uma imagem de um host, vá para `Tasks`, selecione `Capture` e escolha o host.
-   - Para deploy de uma imagem, selecione `Deploy Image` em `Tasks` --> `List All Hosts` e escolha a imagem e o host.
+   - Para capturar uma imagem de um host, certifique-se de que o Host esta configurado para ser ligado através da rede, vá para `Tasks`, escolha o host e clique em Capture.
+   - Para deploy de uma imagem, selecione `Deploy Image` em `Tasks` --> `List All Hosts` e escolha o host.
+   - Certifique-se de que há uma imagem vinculada ao Host, caso não tenha voce pode fazer isso no menu de hosts (Hosts --> Selecione o Host Desejado --> Host Image.
 
 ---
 
