@@ -32,6 +32,9 @@ Para registrar um novo host no FOG, siga os passos abaixo:
 
 Snapins são pacotes de software que podem ser distribuídos para hosts Windows através do FOG. Para instalar Snapins, siga os passos abaixo:
 
+> **Nota:** É preciso realizar a instalação do Fog Client para realizar o deploy do snapin pela rede. O passo a passo para a instalação do Fog Client está presente no seguinte link: 
+[Instalação Fog Client](https://docs.fogproject.org/en/latest/installation/client/install-fog-client/?h=client#fog-client-silent-installation)
+
 1. **Navegue para a Seção de Snapins:**
    - No menu principal, vá para `Snapins` e clique em `Create New Snapin`.
 
